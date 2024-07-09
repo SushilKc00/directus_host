@@ -1,0 +1,7 @@
+$ directus start
+[15:53:16.172] [32mINFO[39m: [36mLoaded extensions: directus-extension-seo[39m
+[15:53:16.183] [33mWARN[39m: [36m"PUBLIC_URL" should be a full URL[39m
+[15:53:16.184] [33mWARN[39m: [36mSpatialite isn't installed. Geometry type support will be limited.[39m
+[15:53:16.236] [31mERROR[39m: [36mPort 8055 is already in use[39m
+error Command failed with exit code 1.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
